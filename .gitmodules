@@ -1,0 +1,3 @@
+[submodule "test-sparse-lib"]
+	path = test-sparse-lib
+	url = https://github.com/kovetskiy/test-sparse-lib
